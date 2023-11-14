@@ -1,4 +1,4 @@
-.body {
+body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 10, 10, 10, 50;
 }
@@ -7,6 +7,10 @@
     display: block;
     text-align: center;
     color: maroon;
+    background-image: url(./recipe-ideas/paper-1074131_1280.jpg);
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding: 15, 15, 15, 15;
 }
 
 ul {
